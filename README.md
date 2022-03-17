@@ -20,5 +20,6 @@ Primer commint
 Crear en Github un repositorio en blanco.
 Conectamos el local con el remoto.
 >git remote add origin git@github.com:abelleira/holagit.git
+
 Primer push, subimos el contenido al remoto
 >git push -u origin main
